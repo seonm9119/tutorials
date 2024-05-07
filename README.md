@@ -4,7 +4,6 @@ This is a series of machine learning tutorials I'm writing for implementing deep
 
 🔴 This tutorial was primarily conducted in **Korean** as the main language. References were left untranslated in English. Unfortunately, I will not upload the custom package required to run the tutorial. The contents of the custom package are or will be implemented in the tutorial. Therefore, I want the user to implement the part yourself.
 
-🔴 It was written in **Korean**, but the README is English because you need to have this level of English reading skills to understand tutorials.
 
 
 ## Papers
@@ -15,6 +14,7 @@ This section is based on research papers. It is designed to enable coding while 
 Category | Paper | Tutorial
 :---: | :---: | :---:
 Machine Translation| [_Attention Is All You Need_](https://arxiv.org/abs/1706.03762)| [Transformer](https://github.com/seonm9119/tutorials/blob/main/Transformer.ipynb)
+NLP|[_BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding_](https://arxiv.org/abs/1810.04805)|[BERT](https://github.com/seonm9119/tutorials/blob/main/BERT.ipynb)|
 
 ---
 
