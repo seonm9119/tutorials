@@ -9,6 +9,7 @@ This section is based on research papers. It is designed to enable coding while 
 
 Category | Paper | Tutorial
 :---: | :---: | :---:
+VFM | [_CvT: Introducing Convolutions to Vision Transformers_](https://arxiv.org/abs/2103.15808) | [Convolutional ViT](https://github.com/seonm9119/tutorials/blob/main/Convolutional%20ViT.ipynb)
 VFM | [_Swin Transformer: Hierarchical Vision Transformer using Shifted Windows_](https://arxiv.org/abs/2103.14030) | [Swin Transformer](https://github.com/seonm9119/tutorials/blob/main/Swin.ipynb)
 VFM | [_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale_](https://arxiv.org/abs/2010.11929) | [Vision Transformer](https://github.com/seonm9119/tutorials/blob/main/Vision%20Transformer.ipynb)
 Machine Translation| [_Attention Is All You Need_](https://arxiv.org/abs/1706.03762)| [Transformer](https://github.com/seonm9119/tutorials/blob/main/Transformer.ipynb)
