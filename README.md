@@ -25,6 +25,8 @@ This section entails various tasks implemented in Colab, serving as an introduct
 
 Category |Tutorial | KeyWord
 :---:| :---: | :---:
+Object Detection | [Faster R-CNN(2)](https://github.com/seonm9119/tutorials/blob/main/Faster%20R-CNN(2).ipynb) | Faster R-CNN
+Object Detection | [Faster R-CNN(1)](https://github.com/seonm9119/tutorials/blob/main/Faster%20R-CNN(1).ipynb) | Faster R-CNN
 NLP | [Seq2Seq](https://github.com/seonm9119/tutorials/blob/main/seq2seq.ipynb)| Machine Translation
 NLP | [Simple Word Window Classification](https://github.com/seonm9119/tutorials/blob/main/Simple%20Word%20Window%20Classification.ipynb) | 
 Computer Vision| [ResNet](https://github.com/seonm9119/tutorials/blob/main/ResNet.ipynb) | Residual Neural Network
